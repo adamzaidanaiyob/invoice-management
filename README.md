@@ -21,7 +21,7 @@ A simple invoice management system built with Laravel and Vue.js.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/invoice-management.git
+git clone https://github.com/adamzaidanaiyob/invoice-management.git
 cd invoice-management
 ```
 
